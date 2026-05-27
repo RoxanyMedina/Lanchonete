@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "X-Burguer",
+        "preco": 25
+    },
+    {
+        "id": 2,
+        "nome": "Batata Frita",
+        "preco":15
+    },
+    {
+        "id": 3,
+        "nome": "Refrigerante",
+        "preco": 8
+    }
+
+]
